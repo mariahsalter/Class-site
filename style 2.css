@@ -1,0 +1,82 @@
+/* this is a basis for a responsive design which you can customize */
+
+h3{
+    color:white;
+}
+
+
+
+
+
+h1{
+    color:white;
+}
+
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+/* POSSIBLE LINK STYLE a:link {
+  background-color:white;
+}
+
+
+
+a:hover {
+  background-color:springgreen;
+}
+*/
+
+a:link, a:visited {
+  background-color:white;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display:inline-block;
+}
+
+a:hover, a:active {
+  background-color:red;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+	
+}
+
+
+
+@media screen and (max-width: 600px) {
+	
+	
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+	
+}
+
+
+@media screen and (max-width: 320px) {
+
+}
+
+
