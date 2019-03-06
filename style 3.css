@@ -1,6 +1,11 @@
 /* this is a basis for a responsive design which you can customize */
 
 
+
+body {
+  height: 100%;
+}
+
 ol{
     color:white;
 }
